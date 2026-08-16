@@ -28,7 +28,7 @@ summary: ""
 
 tags: 
     - Compliance
-    - Static analysis
+    - Static Analysis
 categories: []
 featured: false
 

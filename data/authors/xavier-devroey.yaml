@@ -32,7 +32,7 @@ links:
   - icon: "academicons/dblp"
     url: "https://dblp.uni-trier.de/pid/16/11059.html"
 interests:
-  - "Automated Testing and Fuzzing"
+  - "Automated Testing"
   - "Model-Based Testing"
   - "Variability-Intensive Systems"
 education:
@@ -47,7 +47,7 @@ education:
     date_end: "2010-06-20"
     summary: "Magna Cum Laude\n"
   - area: "Bachelor Analyst Programmer"
-    institution: "Haute Ecole de Bruxelles, Belgium"
+    institution: "HEB-ESI, Belgium"
     date_start: "2004-09-15"
     date_end: "2007-06-30"
     summary: "Magna Cum Laude\n"
